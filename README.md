@@ -20,7 +20,7 @@ Here’s a **README.md** file for your Valentine’s Day website repository:
 ## 🚀 How to Use  
 1. **Clone the Repository**  
    ```sh
-   git clone [https://github.com/yourusername/valentine-.git]
+   git clone https://github.com/pulkitantil/ValentineSite.git
    cd valentine-website
    ```
 2. **Open `index.html` in a browser** and enjoy the romantic experience! 💖  
